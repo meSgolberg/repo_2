@@ -1,2 +1,3 @@
 First line of git_b.txt
-
+second line of git_b.txt
+thrid line of git_b.txt
